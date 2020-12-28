@@ -25,7 +25,9 @@ body{
 
 .navbar-container{
     background-color: #05386b;
-
+    position: sticky;
+    top: 0;
+    z-index: 5;
 }
 
 .navbar-container ul li a{
